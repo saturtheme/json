@@ -1,0 +1,23 @@
+{
+
+"العربية": {
+    "الإدارة": {
+        "الوثيقة 1": "https://www.google.com/",
+        "الوثيقة 2": "https://www.google.com/",
+        "الوثيقة 3": "https://www.google.com/"
+    },
+    "التدريس": {
+        "الوثيقة 1": "https://www.ostad.ma/",
+        "الوثيقة 2": "https://www.ostad.ma/",
+        "الوثيقة 3": "https://www.ostad.ma/"
+    }
+},
+"الفرنسية": {
+    "Enseignement": {
+        "Document 1": "https://www.gmail.com/",
+        "Document 2": "https://www.gmail.com/",
+        "Document 3": "https://www.gmail.com/"
+    }
+}
+
+}
